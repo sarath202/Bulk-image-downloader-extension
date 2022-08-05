@@ -1,0 +1,1 @@
+# Bulk-image-downloader-extension
